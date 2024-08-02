@@ -120,3 +120,8 @@ Usage: v2ray [options]... [args]...
 反馈问题) https://github.com/233boy/v2ray/issues
 文档(doc) https://233boy.com/v2ray/v2ray-script/
 ```
+
+
+备份
+wget https://github.com/1290202227/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
+
